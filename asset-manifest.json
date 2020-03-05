@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/gregtech6-nuclear-simulator/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/gregtech6-nuclear-simulator/static/js/main.55e3c0e9.chunk.js",
+    "main.js.map": "/gregtech6-nuclear-simulator/static/js/main.55e3c0e9.chunk.js.map",
+    "runtime-main.js": "/gregtech6-nuclear-simulator/static/js/runtime-main.c046fe75.js",
+    "runtime-main.js.map": "/gregtech6-nuclear-simulator/static/js/runtime-main.c046fe75.js.map",
+    "static/js/2.bb3faecd.chunk.js": "/gregtech6-nuclear-simulator/static/js/2.bb3faecd.chunk.js",
+    "static/js/2.bb3faecd.chunk.js.map": "/gregtech6-nuclear-simulator/static/js/2.bb3faecd.chunk.js.map",
+    "index.html": "/gregtech6-nuclear-simulator/index.html",
+    "precache-manifest.402a3cd96a19d35cf9ce734d2e791a1e.js": "/gregtech6-nuclear-simulator/precache-manifest.402a3cd96a19d35cf9ce734d2e791a1e.js",
+    "service-worker.js": "/gregtech6-nuclear-simulator/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/gregtech6-nuclear-simulator/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.bb3faecd.chunk.js.LICENSE.txt": "/gregtech6-nuclear-simulator/static/js/2.bb3faecd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c046fe75.js",
+    "static/js/2.bb3faecd.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.55e3c0e9.chunk.js"
+  ]
+}
